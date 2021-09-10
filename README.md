@@ -14,3 +14,4 @@ THATS WHY I PUBLISH THE BACKEND, DLL AND LAUNCHER
 HOPE YOU ENJOY!!!
 
 And if you use any Code pls Give Credits
+(only give credits for launcher, backend and website)
